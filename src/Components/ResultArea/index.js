@@ -14,7 +14,7 @@ const ResultArea = ({ color, numResult, obs }) => {
 const styles = StyleSheet.create({
   area: {
     height: 120,
-    width: 340,
+    width: 335,
     justifyContent: "center",
     alignItems: "center",
     margin: "10%",
