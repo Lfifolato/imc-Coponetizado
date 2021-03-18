@@ -14,7 +14,7 @@ const ResultArea = ({ color, numResult, obs }) => {
 const styles = StyleSheet.create({
   area: {
     height: 120,
-    width: 190,
+    width: 340,
     justifyContent: "center",
     alignItems: "center",
     margin: "10%",
@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   textImc: {
     fontSize: 26,
     fontWeight: "bold",
-    color: "#c72e20",
+    color: "#000",
   },
   numResul: {
     fontSize: 24,
